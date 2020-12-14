@@ -1,0 +1,19 @@
+{
+  "name": "appartistas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotCode95/appArtistas.git"
+  },
+  "author": "Patri Bottino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BotCode95/appArtistas/issues"
+  },
+  "homepage": "https://github.com/BotCode95/appArtistas#readme"
+}
